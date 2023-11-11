@@ -12,5 +12,5 @@ git commit -m "wiki js"
 
 git push -u origin main
 
-@REM pause
+pause
 
